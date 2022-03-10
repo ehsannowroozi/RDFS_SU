@@ -4,7 +4,7 @@ Defeating Adversarial Attacks Againt Adversarial attacks in Network Security
 # RDFS
 ### [Defeating Adversarial Attacks Againt Adversarial attacks in Network Security]
 
-Authors:[Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en)
+Authors: [Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en), MohammadReza Mohammadi, Pargol Golmohammadi, [Yassine Mekdad]{https://scholar.google.com/citations?hl=en&user=LaSyv7EAAAAJ}, [Mauro Conti]{https://scholar.google.com/citations?user=0BcsOY8AAAAJ&hl=en}, and [Selcuk Uluagac]{https://scholar.google.com/citations?user=tcK62uAAAAAJ&hl=en}
 
 2022-2023 Faculty of Engineering and Natural Sciences (FENS), Center of Excellence in Data Analytics (VERİM), Sabanci University, Istanbul Turkey 34956.
 
