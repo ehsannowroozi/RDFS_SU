@@ -3,11 +3,11 @@ Defeating Adversarial Attacks Againt Adversarial attacks in Network Security
 
 ### [Defeating Adversarial Attacks Againt Adversarial attacks in Network Security]
 
-Authors: [Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en), MohammadReza Mohammadi, Pargol Golmohammadi, [Yassine Mekdad](https://scholar.google.com/citations?hl=en&user=LaSyv7EAAAAJ), [Mauro Conti](https://scholar.google.com/citations?user=0BcsOY8AAAAJ&hl=en), and [Selcuk Uluagac](https://scholar.google.com/citations?user=tcK62uAAAAAJ&hl=en). Personal Website: www.enowroozi.com
+Authors: [Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en), [MohammadReza Mohammadi](https://scholar.google.com/citations?user=yGtuQv4AAAAJ&hl=en), Pargol Golmohammadi, [Yassine Mekdad](https://scholar.google.com/citations?hl=en&user=LaSyv7EAAAAJ), [Mauro Conti](https://scholar.google.com/citations?user=0BcsOY8AAAAJ&hl=en), and [Selcuk Uluagac](https://scholar.google.com/citations?user=tcK62uAAAAAJ&hl=en). Personal Website: www.enowroozi.com
 
 2022-2023 Faculty of Engineering and Natural Sciences (FENS), Center of Excellence in Data Analytics (VERİM), Sabanci University, Istanbul Turkey 34956.
 
-Author: Ehsan Nowroozi (Ehsan.Nowroozi@sabanciuniv.edu, ehsan.nowroozi65@gmail.com)
+Author: Ehsan Nowroozi (Ehsan.Nowroozi@sabanciuniv.edu, ehsan.nowroozi65@gmail.com), Mohammadreza Mohammat (m.mhm5994@gmail.com, mohammadreza.mohammadi@studenti.unipd.it)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
 
