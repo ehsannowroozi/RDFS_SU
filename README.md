@@ -13,5 +13,6 @@ This program is free software: you can redistribute it and/or modify it under th
 
 
 
+
 Abstract- 
 We investigate if the feature randomization approach to improve the robustness of forensic detectors to targeted attacks in network security, can be extended to detectors based on deep learning features. In particular, we study the transferability of adversarial examples targeting an original CNN image manipulation detector to other detectors that rely on a random subset of the features extracted from the flatten layer of the original network. The results we got by considering, two original network architectures and different classes of attacks, show that feature randomization helps to hinder attack transferability, even if, in some cases, simply changing the architecture of the detector, or even retraining the detector is enough to prevent the transferability of the attacks. The dataset is available at the [Dataset64](https://zenodo.org/record/6344068#.YioF3BBByEs).
