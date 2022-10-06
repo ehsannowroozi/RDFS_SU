@@ -11,7 +11,19 @@ Author: Ehsan Nowroozi (ehsan.nowroozi@eng.bau.edu.tr, ehsan.nowroozi65@gmail.co
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
 
+If you are using this software, please cite from [arXiv](https://arxiv.org/abs/2209.04930).
+### Cite
+@misc{nowroozi2022resisting,
+      title={Resisting Deep Learning Models Against Adversarial Attack Transferability via Feature Randomization}, 
+      author={Ehsan Nowroozi and Mohammadreza Mohammadi and Pargol Golmohammadi and Yassine Mekdad and Mauro Conti and Selcuk Uluagac},
+      year={2022},
+      eprint={2209.04930},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
 
-Abstract- 
+### Abstract 
 In the past decades, the rise of artificial intelligence has given us the capabilities to solve the most challenging problems in our day-to-day lives, such as cancer prediction and autonomous navigation. However, these applications might not be reliable if not secured against adversarial attacks. In addition, recent works demonstrated that some adversarial examples are transferable across different models. Therefore, it is crucial to avoid such transferability via robust models that resist adversarial manipulations. In this paper, we propose a feature randomization-based approach that resists eight adversarial attacks targeting deep learning models in the testing phase. Our novel approach consists of changing the training strategy in the target network classifier and selecting random feature samples. We consider the attacker with a Limited-Knowledge and Semi-Knowledge conditions to undertake the most prevalent types of adversarial attacks. We evaluate the robustness of our approach using the well-known UNSW-NB15 datasets that include realistic and synthetic attacks. Afterward, we demonstrate that our strategy outperforms the existing state-of-the-art approach, such as the Most Powerful Attack, which consists of fine-tuning the network model against specific adversarial attacks. Finally, our experimental results show that our methodology can secure the target network and resists adversarial attack transferability by over 60%. 
+
+### Dataset
 The dataset is available at the [Dataset64](https://zenodo.org/record/6344068#.YioF3BBByEs).
