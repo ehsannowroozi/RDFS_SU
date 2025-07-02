@@ -3,7 +3,7 @@ Resisting Deep Learning Models Against Adversarial Attack Transferability via Fe
 
 ### [Resisting Deep Learning Models Against Adversarial Attack Transferability via Feature Randomization]
 
-Authors: [Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en), [MohammadReza Mohammadi](https://scholar.google.com/citations?user=yGtuQv4AAAAJ&hl=en), Pargol Golmohammadi, [Yassine Mekdad](https://scholar.google.com/citations?hl=en&user=LaSyv7EAAAAJ), [Mauro Conti](https://scholar.google.com/citations?user=0BcsOY8AAAAJ&hl=en), and [Selcuk Uluagac](https://scholar.google.com/citations?user=tcK62uAAAAAJ&hl=en). Personal Website: www.enowroozi.com
+Authors: [Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en), [MohammadReza Mohammadi](https://scholar.google.com/citations?user=yGtuQv4AAAAJ&hl=en), Pargol Golmohammadi, [Yassine Mekdad](https://scholar.google.com/citations?hl=en&user=LaSyv7EAAAAJ), [Mauro Conti](https://scholar.google.com/citations?user=0BcsOY8AAAAJ&hl=en), and [Selcuk Uluagac](https://scholar.google.com/citations?user=tcK62uAAAAAJ&hl=en).
 
 2022-2023 Bahceşehir Üniversitesi, Mühendislik ve Doğa Bilimleri Fakültesi, D Blok, Yıldız, Çırağan Caddesi, 34349, İstanbul, Turkey 
 
